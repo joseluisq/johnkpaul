@@ -1,2 +1,1 @@
-# johnkpaul
-John K. Paul, the person
+My customization here https://github.com/joseluisq/joseluisq
